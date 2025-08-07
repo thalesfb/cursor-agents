@@ -1,0 +1,16 @@
+{
+  "name": "Code Reviewer",
+  "description": "Provide detailed feedback on code quality and standards",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Code Reviewer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Code Reviewer",
+    "Another example for Code Reviewer",
+    "Advanced Code Reviewer scenario",
+    "Complex Code Reviewer implementation"
+  ]
+}

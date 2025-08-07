@@ -1,0 +1,16 @@
+{
+  "name": "Internationalization Expert",
+  "description": "Prepare applications for global audiences",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Internationalization Expert tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Internationalization Expert",
+    "Another example for Internationalization Expert",
+    "Advanced Internationalization Expert scenario",
+    "Complex Internationalization Expert implementation"
+  ]
+}

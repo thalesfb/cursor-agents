@@ -1,0 +1,523 @@
+{
+  "agents": [
+    {
+      "id": "01",
+      "name": "Code Architect",
+      "file": "01-code-architect.json",
+      "category": "Architecture",
+      "description": "Design system architecture and create foundational code structures"
+    },
+    {
+      "id": "02",
+      "name": "Bug Hunter",
+      "file": "02-bug-hunter.json",
+      "category": "Debugging",
+      "description": "Track down and fix elusive bugs"
+    },
+    {
+      "id": "03",
+      "name": "Performance Optimizer",
+      "file": "03-performance-optimizer.json",
+      "category": "Performance",
+      "description": "Improve application speed and resource efficiency"
+    },
+    {
+      "id": "04",
+      "name": "Security Guardian",
+      "file": "04-security-guardian.json",
+      "category": "Security",
+      "description": "Identify and address security vulnerabilities"
+    },
+    {
+      "id": "05",
+      "name": "API Designer",
+      "file": "05-api-designer.json",
+      "category": "Backend",
+      "description": "Create and document RESTful or GraphQL APIs"
+    },
+    {
+      "id": "06",
+      "name": "Frontend Wizard",
+      "file": "06-frontend-wizard.json",
+      "category": "Frontend",
+      "description": "Develop responsive, accessible UI components"
+    },
+    {
+      "id": "07",
+      "name": "Test Engineer",
+      "file": "07-test-engineer.json",
+      "category": "Testing",
+      "description": "Create comprehensive test suites"
+    },
+    {
+      "id": "08",
+      "name": "Database Specialist",
+      "file": "08-database-specialist.json",
+      "category": "Database",
+      "description": "Optimize database interactions and schema design"
+    },
+    {
+      "id": "09",
+      "name": "Documentation Expert",
+      "file": "09-documentation-expert.json",
+      "category": "Documentation",
+      "description": "Create clear, comprehensive documentation"
+    },
+    {
+      "id": "10",
+      "name": "DevOps Engineer",
+      "file": "10-devops-engineer.json",
+      "category": "DevOps",
+      "description": "Set up CI/CD pipelines and infrastructure configurations"
+    },
+    {
+      "id": "11",
+      "name": "Code Translator",
+      "file": "11-code-translator.json",
+      "category": "Code Conversion",
+      "description": "Convert code between programming languages"
+    },
+    {
+      "id": "12",
+      "name": "Refactoring Specialist",
+      "file": "12-refactoring-specialist.json",
+      "category": "Code Quality",
+      "description": "Improve code quality without changing functionality"
+    },
+    {
+      "id": "13",
+      "name": "Legacy Code Modernizer",
+      "file": "13-legacy-code-modernizer.json",
+      "category": "Migration",
+      "description": "Update outdated codebases to modern standards"
+    },
+    {
+      "id": "14",
+      "name": "Accessibility Advocate",
+      "file": "14-accessibility-advocate.json",
+      "category": "Accessibility",
+      "description": "Ensure applications are accessible to all users"
+    },
+    {
+      "id": "15",
+      "name": "Mobile Developer",
+      "file": "15-mobile-developer.json",
+      "category": "Mobile",
+      "description": "Create and optimize mobile applications"
+    },
+    {
+      "id": "16",
+      "name": "Internationalization Expert",
+      "file": "16-internationalization-expert.json",
+      "category": "i18n",
+      "description": "Prepare applications for global audiences"
+    },
+    {
+      "id": "17",
+      "name": "Data Scientist",
+      "file": "17-data-scientist.json",
+      "category": "Data Science",
+      "description": "Implement ML models and data processing pipelines"
+    },
+    {
+      "id": "18",
+      "name": "Microservice Architect",
+      "file": "18-microservice-architect.json",
+      "category": "Architecture",
+      "description": "Design and implement microservice-based systems"
+    },
+    {
+      "id": "19",
+      "name": "Code Reviewer",
+      "file": "19-code-reviewer.json",
+      "category": "Code Quality",
+      "description": "Provide detailed feedback on code quality and standards"
+    },
+    {
+      "id": "20",
+      "name": "Dependency Manager",
+      "file": "20-dependency-manager.json",
+      "category": "DevOps",
+      "description": "Optimize and secure project dependencies"
+    },
+    {
+      "id": "21",
+      "name": "Cloud Architect",
+      "file": "21-cloud-architect.json",
+      "category": "Cloud",
+      "description": "Design cloud-native applications and infrastructure"
+    },
+    {
+      "id": "22",
+      "name": "Game Developer",
+      "file": "22-game-developer.json",
+      "category": "Gaming",
+      "description": "Create interactive gaming experiences"
+    },
+    {
+      "id": "23",
+      "name": "Blockchain Developer",
+      "file": "23-blockchain-developer.json",
+      "category": "Blockchain",
+      "description": "Create decentralized applications and smart contracts"
+    },
+    {
+      "id": "24",
+      "name": "Embedded Systems Developer",
+      "file": "24-embedded-systems-developer.json",
+      "category": "Embedded",
+      "description": "Create software for resource-constrained devices"
+    },
+    {
+      "id": "25",
+      "name": "Real-time Systems Specialist",
+      "file": "25-real-time-systems-specialist.json",
+      "category": "Real-time",
+      "description": "Develop systems with stringent timing requirements"
+    },
+    {
+      "id": "26",
+      "name": "UI/UX Implementer",
+      "file": "26-ui-ux-implementer.json",
+      "category": "Frontend",
+      "description": "Transform design mockups into functional interfaces"
+    },
+    {
+      "id": "27",
+      "name": "Serverless Architect",
+      "file": "27-serverless-architect.json",
+      "category": "Cloud",
+      "description": "Design and implement serverless applications"
+    },
+    {
+      "id": "28",
+      "name": "IoT Developer",
+      "file": "28-iot-developer.json",
+      "category": "IoT",
+      "description": "Create software for connected devices and data processing"
+    },
+    {
+      "id": "29",
+      "name": "Batch Processing Engineer",
+      "file": "29-batch-processing-engineer.json",
+      "category": "Data Engineering",
+      "description": "Design efficient data processing jobs"
+    },
+    {
+      "id": "30",
+      "name": "Event-Driven Architect",
+      "file": "30-event-driven-architect.json",
+      "category": "Architecture",
+      "description": "Design reactive, event-based systems"
+    },
+    {
+      "id": "31",
+      "name": "Data Engineer",
+      "file": "31-data-engineer.json",
+      "category": "Data Engineering",
+      "description": "Create robust data pipelines and storage solutions"
+    },
+    {
+      "id": "32",
+      "name": "Content Management Specialist",
+      "file": "32-content-management-specialist.json",
+      "category": "CMS",
+      "description": "Implement CMS solutions and content delivery"
+    },
+    {
+      "id": "33",
+      "name": "Networking Protocol Developer",
+      "file": "33-networking-protocol-developer.json",
+      "category": "Networking",
+      "description": "Implement communication protocols and networking code"
+    },
+    {
+      "id": "34",
+      "name": "Authentication Specialist",
+      "file": "34-authentication-specialist.json",
+      "category": "Security",
+      "description": "Implement secure user authentication and authorization"
+    },
+    {
+      "id": "35",
+      "name": "Search Engine Developer",
+      "file": "35-search-engine-developer.json",
+      "category": "Search",
+      "description": "Implement efficient search functionality"
+    },
+    {
+      "id": "36",
+      "name": "Continuous Integration Expert",
+      "file": "36-continuous-integration-expert.json",
+      "category": "DevOps",
+      "description": "Design and optimize automated testing workflows"
+    },
+    {
+      "id": "37",
+      "name": "Code Generator",
+      "file": "37-code-generator.json",
+      "category": "Code Generation",
+      "description": "Create tools that generate code from specifications"
+    },
+    {
+      "id": "38",
+      "name": "Desktop Application Developer",
+      "file": "38-desktop-application-developer.json",
+      "category": "Desktop",
+      "description": "Create native desktop applications"
+    },
+    {
+      "id": "39",
+      "name": "Compiler/Interpreter Developer",
+      "file": "39-compiler-interpreter-developer.json",
+      "category": "Language Development",
+      "description": "Create language processing tools"
+    },
+    {
+      "id": "40",
+      "name": "Graphics Programmer",
+      "file": "40-graphics-programmer.json",
+      "category": "Graphics",
+      "description": "Implement rendering and visualization code"
+    },
+    {
+      "id": "41",
+      "name": "API Integrator",
+      "file": "41-api-integrator.json",
+      "category": "Integration",
+      "description": "Connect systems through third-party API integrations"
+    },
+    {
+      "id": "42",
+      "name": "Monolith to Microservice Transformer",
+      "file": "42-monolith-to-microservice-transformer.json",
+      "category": "Migration",
+      "description": "Gradually decompose monolithic applications"
+    },
+    {
+      "id": "43",
+      "name": "Load Testing Specialist",
+      "file": "43-load-testing-specialist.json",
+      "category": "Testing",
+      "description": "Create and analyze performance tests"
+    },
+    {
+      "id": "44",
+      "name": "Distributed Systems Engineer",
+      "file": "44-distributed-systems-engineer.json",
+      "category": "Architecture",
+      "description": "Design systems that operate across multiple nodes"
+    },
+    {
+      "id": "45",
+      "name": "Chatbot Developer",
+      "file": "45-chatbot-developer.json",
+      "category": "AI/ML",
+      "description": "Create conversational interfaces and AI assistants"
+    },
+    {
+      "id": "46",
+      "name": "AR/VR Developer",
+      "file": "46-ar-vr-developer.json",
+      "category": "AR/VR",
+      "description": "Create immersive augmented and virtual reality experiences"
+    },
+    {
+      "id": "47",
+      "name": "Progressive Web App Specialist",
+      "file": "47-progressive-web-app-specialist.json",
+      "category": "Frontend",
+      "description": "Create web applications with native-like capabilities"
+    },
+    {
+      "id": "48",
+      "name": "Package Publisher",
+      "file": "48-package-publisher.json",
+      "category": "Packaging",
+      "description": "Prepare code libraries for public distribution"
+    },
+    {
+      "id": "49",
+      "name": "Technical Debt Reducer",
+      "file": "49-technical-debt-reducer.json",
+      "category": "Code Quality",
+      "description": "Identify and address accumulated code issues"
+    },
+    {
+      "id": "50",
+      "name": "Configuration Management Specialist",
+      "file": "50-configuration-management-specialist.json",
+      "category": "DevOps",
+      "description": "Create flexible, environment-aware configuration systems"
+    },
+    {
+      "id": "51",
+      "name": "Research Specialist",
+      "file": "51-research-specialist.json",
+      "category": "Research",
+      "description": "Conduct technical research, find academic papers, and analyze industry trends"
+    },
+    {
+      "id": "52",
+      "name": "Architecture Analyst",
+      "file": "52-architecture-analyst.json",
+      "category": "Architecture",
+      "description": "Analyze existing codebases and propose architectural improvements"
+    },
+    {
+      "id": "53",
+      "name": "Performance Analyst",
+      "file": "53-performance-analyst.json",
+      "category": "Performance",
+      "description": "Analyze performance bottlenecks and propose optimization strategies"
+    },
+    {
+      "id": "54",
+      "name": "Code Quality Inspector",
+      "file": "54-code-quality-inspector.json",
+      "category": "Code Quality",
+      "description": "Analyze code quality metrics and propose improvements"
+    },
+    {
+      "id": "55",
+      "name": "Technology Trend Analyst",
+      "file": "55-technology-trend-analyst.json",
+      "category": "Research",
+      "description": "Monitor technology trends and recommend adoption strategies"
+    }
+  ],
+  "categories": {
+    "Architecture": [
+      "01-code-architect.json",
+      "18-microservice-architect.json",
+      "30-event-driven-architect.json",
+      "44-distributed-systems-engineer.json"
+    ],
+    "Debugging": [
+      "02-bug-hunter.json"
+    ],
+    "Performance": [
+      "03-performance-optimizer.json"
+    ],
+    "Security": [
+      "04-security-guardian.json",
+      "34-authentication-specialist.json"
+    ],
+    "Backend": [
+      "05-api-designer.json"
+    ],
+    "Frontend": [
+      "06-frontend-wizard.json",
+      "26-ui-ux-implementer.json",
+      "47-progressive-web-app-specialist.json"
+    ],
+    "Testing": [
+      "07-test-engineer.json",
+      "36-continuous-integration-expert.json",
+      "43-load-testing-specialist.json"
+    ],
+    "Database": [
+      "08-database-specialist.json"
+    ],
+    "Documentation": [
+      "09-documentation-expert.json"
+    ],
+    "DevOps": [
+      "10-devops-engineer.json",
+      "20-dependency-manager.json",
+      "36-continuous-integration-expert.json",
+      "50-configuration-management-specialist.json"
+    ],
+    "Code Conversion": [
+      "11-code-translator.json"
+    ],
+    "Code Quality": [
+      "12-refactoring-specialist.json",
+      "19-code-reviewer.json",
+      "49-technical-debt-reducer.json"
+    ],
+    "Migration": [
+      "13-legacy-code-modernizer.json",
+      "42-monolith-to-microservice-transformer.json"
+    ],
+    "Accessibility": [
+      "14-accessibility-advocate.json"
+    ],
+    "Mobile": [
+      "15-mobile-developer.json"
+    ],
+    "i18n": [
+      "16-internationalization-expert.json"
+    ],
+    "Data Science": [
+      "17-data-scientist.json"
+    ],
+    "Cloud": [
+      "21-cloud-architect.json",
+      "27-serverless-architect.json"
+    ],
+    "Gaming": [
+      "22-game-developer.json"
+    ],
+    "Blockchain": [
+      "23-blockchain-developer.json"
+    ],
+    "Embedded": [
+      "24-embedded-systems-developer.json"
+    ],
+    "Real-time": [
+      "25-real-time-systems-specialist.json"
+    ],
+    "IoT": [
+      "28-iot-developer.json"
+    ],
+    "Data Engineering": [
+      "29-batch-processing-engineer.json",
+      "31-data-engineer.json"
+    ],
+    "CMS": [
+      "32-content-management-specialist.json"
+    ],
+    "Networking": [
+      "33-networking-protocol-developer.json"
+    ],
+    "Search": [
+      "35-search-engine-developer.json"
+    ],
+    "Code Generation": [
+      "37-code-generator.json"
+    ],
+    "Desktop": [
+      "38-desktop-application-developer.json"
+    ],
+    "Language Development": [
+      "39-compiler-interpreter-developer.json"
+    ],
+    "Graphics": [
+      "40-graphics-programmer.json"
+    ],
+    "Integration": [
+      "41-api-integrator.json"
+    ],
+    "AI/ML": [
+      "45-chatbot-developer.json"
+    ],
+    "AR/VR": [
+      "46-ar-vr-developer.json"
+    ],
+    "Packaging": [
+      "48-package-publisher.json"
+    ],
+    "Research": [
+      "51-research-specialist.json",
+      "55-technology-trend-analyst.json"
+    ]
+  },
+  "metadata": {
+    "total_agents": 55,
+    "source": "OneDollarVPS - 50 Cursor Custom Modes",
+    "version": "2.0.0",
+    "created": "2024-12-19",
+    "updated": "2024-12-19"
+  }
+}

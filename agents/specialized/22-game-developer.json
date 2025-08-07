@@ -1,0 +1,16 @@
+{
+  "name": "Game Developer",
+  "description": "Create interactive gaming experiences",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Game Developer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Game Developer",
+    "Another example for Game Developer",
+    "Advanced Game Developer scenario",
+    "Complex Game Developer implementation"
+  ]
+}

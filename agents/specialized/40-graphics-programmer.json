@@ -1,0 +1,16 @@
+{
+  "name": "Graphics Programmer",
+  "description": "Implement rendering and visualization code",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Graphics Programmer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Graphics Programmer",
+    "Another example for Graphics Programmer",
+    "Advanced Graphics Programmer scenario",
+    "Complex Graphics Programmer implementation"
+  ]
+}

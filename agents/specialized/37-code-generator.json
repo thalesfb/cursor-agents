@@ -1,0 +1,16 @@
+{
+  "name": "Code Generator",
+  "description": "Create tools that generate code from specifications",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Code Generator tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Code Generator",
+    "Another example for Code Generator",
+    "Advanced Code Generator scenario",
+    "Complex Code Generator implementation"
+  ]
+}

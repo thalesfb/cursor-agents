@@ -1,0 +1,16 @@
+{
+  "name": "Distributed Systems Engineer",
+  "description": "Design systems that operate across multiple nodes",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Distributed Systems Engineer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Distributed Systems Engineer",
+    "Another example for Distributed Systems Engineer",
+    "Advanced Distributed Systems Engineer scenario",
+    "Complex Distributed Systems Engineer implementation"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AR/VR Developer",
+  "description": "Create immersive augmented and virtual reality experiences",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for AR/VR Developer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for AR/VR Developer",
+    "Another example for AR/VR Developer",
+    "Advanced AR/VR Developer scenario",
+    "Complex AR/VR Developer implementation"
+  ]
+}

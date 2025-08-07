@@ -1,0 +1,16 @@
+{
+  "name": "Package Publisher",
+  "description": "Prepare code libraries for public distribution",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Package Publisher tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Package Publisher",
+    "Another example for Package Publisher",
+    "Advanced Package Publisher scenario",
+    "Complex Package Publisher implementation"
+  ]
+}

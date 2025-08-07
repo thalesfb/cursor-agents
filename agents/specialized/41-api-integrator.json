@@ -1,0 +1,16 @@
+{
+  "name": "API Integrator",
+  "description": "Connect systems through third-party API integrations",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for API Integrator tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for API Integrator",
+    "Another example for API Integrator",
+    "Advanced API Integrator scenario",
+    "Complex API Integrator implementation"
+  ]
+}

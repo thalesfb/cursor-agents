@@ -1,0 +1,16 @@
+{
+  "name": "Microservice Architect",
+  "description": "Design and implement microservice-based systems",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Microservice Architect tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Microservice Architect",
+    "Another example for Microservice Architect",
+    "Advanced Microservice Architect scenario",
+    "Complex Microservice Architect implementation"
+  ]
+}

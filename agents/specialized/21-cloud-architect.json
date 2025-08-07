@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Architect",
+  "description": "Design cloud-native applications and infrastructure",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Cloud Architect tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Cloud Architect",
+    "Another example for Cloud Architect",
+    "Advanced Cloud Architect scenario",
+    "Complex Cloud Architect implementation"
+  ]
+}

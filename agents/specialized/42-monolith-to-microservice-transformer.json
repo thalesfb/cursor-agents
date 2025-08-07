@@ -1,0 +1,16 @@
+{
+  "name": "Monolith to Microservice Transformer",
+  "description": "Gradually decompose monolithic applications",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Monolith to Microservice Transformer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Monolith to Microservice Transformer",
+    "Another example for Monolith to Microservice Transformer",
+    "Advanced Monolith to Microservice Transformer scenario",
+    "Complex Monolith to Microservice Transformer implementation"
+  ]
+}

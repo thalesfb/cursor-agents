@@ -1,0 +1,63 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Arquivos de dependências
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de build
+dist/
+build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de teste
+coverage/
+.nyc_output/
+*.lcov
+
+# Arquivos de cache
+.cache/
+.parcel-cache/
+
+# Arquivos de configuração local
+config.local.json
+settings.local.json
+
+# Arquivos de instalação local
+install-local/
+temp-install/
+
+# Logs
+logs/
+*.log
+
+# Arquivos de backup do Cursor
+cursor-backup/

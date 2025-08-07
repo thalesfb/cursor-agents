@@ -1,0 +1,16 @@
+{
+  "name": "Chatbot Developer",
+  "description": "Create conversational interfaces and AI assistants",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Chatbot Developer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Chatbot Developer",
+    "Another example for Chatbot Developer",
+    "Advanced Chatbot Developer scenario",
+    "Complex Chatbot Developer implementation"
+  ]
+}

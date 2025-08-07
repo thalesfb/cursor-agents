@@ -1,0 +1,16 @@
+{
+  "name": "Desktop Application Developer",
+  "description": "Create native desktop applications",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Desktop Application Developer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Desktop Application Developer",
+    "Another example for Desktop Application Developer",
+    "Advanced Desktop Application Developer scenario",
+    "Complex Desktop Application Developer implementation"
+  ]
+}

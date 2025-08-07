@@ -1,0 +1,16 @@
+{
+  "name": "Technical Debt Reducer",
+  "description": "Identify and address accumulated code issues",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Technical Debt Reducer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Technical Debt Reducer",
+    "Another example for Technical Debt Reducer",
+    "Advanced Technical Debt Reducer scenario",
+    "Complex Technical Debt Reducer implementation"
+  ]
+}

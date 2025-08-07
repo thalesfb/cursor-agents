@@ -1,0 +1,14 @@
+{
+  "name": "Nome do Agente",
+  "description": "Descrição do propósito",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Instruções detalhadas...",
+  "examples": [
+    "Exemplo 1",
+    "Exemplo 2"
+  ]
+}

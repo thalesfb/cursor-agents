@@ -1,0 +1,16 @@
+{
+  "name": "Batch Processing Engineer",
+  "description": "Design efficient data processing jobs",
+  "tools": [
+    "codebase_search",
+    "read_file",
+    "edit_file"
+  ],
+  "instructions": "Specialized agent for Batch Processing Engineer tasks. Focus on best practices and efficient solutions.",
+  "examples": [
+    "Example task for Batch Processing Engineer",
+    "Another example for Batch Processing Engineer",
+    "Advanced Batch Processing Engineer scenario",
+    "Complex Batch Processing Engineer implementation"
+  ]
+}
