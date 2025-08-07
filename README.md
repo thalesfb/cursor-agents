@@ -20,8 +20,7 @@ cursor-agents/
 ├── 📁 docs/                        # Documentação
 │   └── agentes-inteligentes.md     # Guia dos agentes inteligentes
 ├── 📁 scripts/                     # Scripts organizados
-│   ├── 📁 installation/            # Scripts de instalação
-│   └── 📁 generation/              # Scripts de geração
+│   └── 📁 installation/            # Scripts de instalação
 └── 📁 templates/                   # Templates para novos agentes
     └── agent-template.json         # Template de agente
 ```
