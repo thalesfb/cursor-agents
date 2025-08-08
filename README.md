@@ -41,9 +41,6 @@ Gerencia projetos complexos coordenando múltiplos agentes.
 
 ### **Opção 1: Script Automático (Recomendado)**
 ```bash
-# Gerar agentes
-python scripts/generation/generate-agents.py
-python scripts/generation/improve-agents.py
 
 # Instalar
 python scripts/installation/install-unix.sh  # Linux/macOS
@@ -132,11 +129,6 @@ Os agentes incluem ferramentas MCP específicas:
 - **[install-windows.ps1](scripts/installation/install-windows.ps1)** - Instalador PowerShell
 - **[install-unix.sh](scripts/installation/install-unix.sh)** - Instalador Linux/macOS
 - **[install-manual.bat](scripts/installation/install-manual.bat)** - Instalador manual
-
-### **Geração**
-- **[generate-agents.py](scripts/generation/generate-agents.py)** - Gerador de agentes
-- **[improve-agents.py](scripts/generation/improve-agents.py)** - Melhorador de agentes
-- **[apply-improvements.py](scripts/generation/apply-improvements.py)** - Aplicador de melhorias
 
 ## 🎉 Vantagens
 
